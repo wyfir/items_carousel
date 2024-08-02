@@ -1,4 +1,4 @@
-MIT License
+items_carousel/LICENSE.txt items_carousel/README.mdMIT License
 
 Copyright (c) 2024 wyfir 
 
